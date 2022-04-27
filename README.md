@@ -1,2 +1,2 @@
-# shroomerino.github.io
+# shroomerino
 A personal website/sandbox kinda thing.
