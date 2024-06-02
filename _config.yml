@@ -27,7 +27,7 @@ twitter_username: shwommers
 github_username:  shroomerino
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 
 plugins:
   - jekyll-feed
