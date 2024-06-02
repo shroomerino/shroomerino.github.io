@@ -1,2 +1,2 @@
 # there is nothing here
-remote_theme: "dracula/gh-pages"
+theme: jekyll-text-theme
